@@ -1,0 +1,4 @@
+.venv/*
+.vscode/*
+StairAlert.code-workspace
+ESP8266_main/config.h
